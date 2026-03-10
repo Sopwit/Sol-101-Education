@@ -1,0 +1,14 @@
+/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/deps/serde-b8732db93e1711bf.d: /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/build/serde-fa9448ca1121f674/out/private.rs
+
+/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/deps/libserde-b8732db93e1711bf.rlib: /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/build/serde-fa9448ca1121f674/out/private.rs
+
+/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/deps/libserde-b8732db93e1711bf.rmeta: /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/build/serde-fa9448ca1121f674/out/private.rs
+
+/Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/emir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/build/serde-fa9448ca1121f674/out/private.rs:
+
+# env-dep:OUT_DIR=/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/debug/build/serde-fa9448ca1121f674/out

@@ -1,0 +1,1 @@
+/Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/target/sbpf-solana-solana/release/libstructure_demo.rlib: /Volumes/NeuralSilicon/OSDEV/Bootcamp-Hackathon/structure-demo/programs/structure-demo/src/lib.rs
