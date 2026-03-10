@@ -52,6 +52,14 @@ bower_components/
 *.o
 *.so
 
+# Solana / Anchor generated artifacts
+.anchor/
+
+# Frontend generated build metadata
+app/*.tsbuildinfo
+app/vite.config.js
+app/vite.config.d.ts
+
 # Package distribution #
 *.7z
 *.dmg
